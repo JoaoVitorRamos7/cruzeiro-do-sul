@@ -2,17 +2,17 @@
 
 ## Conteúdo
 
-- Panorama Salarial
-- Ecossistema Tecnológico
-- Integração com Back-End
-- UI/UX e Acessibilidade
-- Ferramentas e IA
-- Conclusão Pessoal
+1. Panorama Salarial
+2. Ecossistema Tecnológico
+3. Integração com Back-End
+4. UI/UX e Acessibilidade
+5. Ferramentas e IA
+6. Conclusão Pessoal
 
 ---
 
 
-## Panorama Salarial
+## 1. Panorama Salarial
 
 O desenvolvimento Front-End é uma das áreas mais valorizadas da tecnologia, com salários que variam de acordo com o nível de experiência, cargo, localização e modelo de contratação.
 
@@ -31,23 +31,23 @@ Júnior Internacional: R$ 8.000 a R$ 15.000 por mês. Exige inglês funcional e 
 Pleno Internacional: R$ 15.000 a R$ 28.000 por mês. Exige autonomia técnica e boa comunicação em inglês.
 Sênior Internacional: R$ 28.000 a R$ 50.000+ por mês, podendo equivaler a aproximadamente US$ 5.000 a US$ 10.000 mensais.
 
-## Ecossistema Tecnológico
+## 2. Ecossistema Tecnológico
 
 No mercado atual de desenvolvimento Front-End, o React é uma das tecnologias de maior destaque. A pesquisa de 2025 do Stack Overflow mostra que React está entre as tecnologias web mais utilizadas. Também aparecem com relevância tecnologias como Next.js, Angular e Vue.js.
 
-## Integração com Back-End
+## 3. Integração com Back-End
 
 É muito importante que um desenvolvedor Front-End saiba integrar sua aplicação com o Back-End. Isso normalmente é feito por meio de APIs, principalmente APIs REST utilizando requisições HTTP.
 
 Por exemplo, uma aplicação React pode consumir uma API desenvolvida em Python, utilizando frameworks como FastAPI, Flask ou Django. Dessa forma, o desenvolvedor Front-End consegue receber, enviar e manipular dados fornecidos pelo Back-End.
 
-## UI/UX e Acessibilidade
+## 4. UI/UX e Acessibilidade
 
 O mercado valoriza que o desenvolvedor Front-End consiga interpretar protótipos do Figma e transformá-los em interfaces funcionais. Também é importante compreender conceitos de UI/UX, como responsividade, componentes, espaçamento e hierarquia visual.
 
 A acessibilidade web também é uma habilidade importante. O desenvolvedor deve conhecer diretrizes como a WCAG 2.1, aplicando práticas como contraste adequado, navegação por teclado, textos alternativos e utilização correta dos elementos HTML.
 
-## Ferramentas e IA
+## 5. Ferramentas e IA
 
 As pesquisas recentes mostram que a Inteligência Artificial Generativa já faz parte da rotina de muitos desenvolvedores, principalmente para gerar trechos de código, corrigir erros, criar testes e auxiliar na documentação.
 
@@ -55,7 +55,7 @@ Ferramentas como o GitHub Copilot ajudam a reduzir tarefas repetitivas e podem a
 
 No Front-End, a IA pode acelerar a criação de componentes, funções JavaScript/TypeScript, estilos CSS e estruturas de páginas. Porém, o desenvolvedor ainda precisa revisar e validar o código gerado.
 
-## Conclusão Pessoal
+## 6. Conclusão Pessoal
 
 Com base na pesquisa, acredito que devo priorizar o aprendizado de React e TypeScript/JavaScript, pois são tecnologias bastante presentes no mercado atual. Também considero importante desenvolver a habilidade de consumir APIs e integrar o Front-End com o Back-End, já que essa competência é frequentemente necessária no desenvolvimento de aplicações reais.
 

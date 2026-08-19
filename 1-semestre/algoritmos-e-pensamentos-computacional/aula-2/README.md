@@ -1,8 +1,8 @@
 # Aula 02 - Algoritmos e Pensamento Computacional
 
 ## Conteúdo
-1. Introdução à Programação em C
-2. Elaborado com o auxílio do Gemini, do Google
+- Introdução à Programação em C
+- Elaborado com o auxílio do Gemini, do Google
 
 ---
 
