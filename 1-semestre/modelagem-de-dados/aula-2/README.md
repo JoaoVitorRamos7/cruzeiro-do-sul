@@ -1,4 +1,4 @@
-# Aula 02 - o Modelo Entidade-Relacionamento (MER)
+# Aula 02 - O Modelo Entidade-Relacionamento (MER)
 
 ## Conteúdo
 
